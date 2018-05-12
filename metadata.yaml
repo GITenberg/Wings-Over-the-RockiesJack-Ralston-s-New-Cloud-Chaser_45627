@@ -1,0 +1,28 @@
+_repo: Wings-Over-the-RockiesJack-Ralston-s-New-Cloud-Chaser_45627
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45627-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newcomb, Ambrose
+    gutenberg_agent_id: '35220'
+    url: http://www.gutenberg.org/2009/agents/35220
+description: ''
+gutenberg_issued: '2014-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Air pilots -- Juvenile fiction'
+- !lcsh 'Secret service -- United States -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+title: Wings Over the Rockies; Or, Jack Ralston's New Cloud Chaser
+url: http://www.gutenberg.org/ebooks/45627
